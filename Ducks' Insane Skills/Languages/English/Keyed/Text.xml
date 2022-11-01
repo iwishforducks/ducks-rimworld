@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<DucksSkillsOptionHeader>Ducks' Skills Options:</DucksSkillsOptionHeader>
+	<DucksSkillsComingSoon>Options coming soon!</DucksSkillsComingSoon>
+	
+	<MaxLevelOption>Maximum Level:</MaxLevelOption>
+	<MaxLevelLabel>The maximum level a pawn can achieve in a skill. WARNING: This can de-level your pawns, use with caution.
+	
+	Setting to 0 allows for infinite skilling. Default is 0 for infinite skilling.</MaxLevelLabel>
+	
+	<XpCapOption>Daily XP cap:</XpCapOption>
+	<XpCapLabel>Surpassing this cap lowers the speed of XP gained with diminishing returns. This is modified by a pawn's interest in the skill, so if a pawn is uninterested the cap is 50%, and burning is 150%.
+	
+	Setting to 0 disables the daily skill cap altogether. Default is 2000.</XpCapLabel>
+	
+	<MuteCraftOption>Mute craft notifications:</MuteCraftOption>
+	<MuteCraftLabel>Mutes masterwork and legendary notifications from appearing.
+	
+	By default this option is enabled.</MuteCraftLabel>
+</LanguageData>
